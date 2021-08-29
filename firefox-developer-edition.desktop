@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Firefox Developer Edition
+Exec=/opt/firefox-developer-edition/firefox-bin
+Icon=/usr/share/icons/hicolor/128x128/apps/firefox-developer-edition.png
+Type=Application
+Categories=Internet;

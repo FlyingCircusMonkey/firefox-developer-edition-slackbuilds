@@ -1,0 +1,12 @@
+Firefox Browser Developer Edition
+
+The browser made for developers
+
+All the latest developer tools in beta, plus experimental features like the Multi-line Console Editor and WebSocket Inspector.
+
+A separate profile and path so you can easily run it alongside Release or Beta Firefox.
+
+Preferences tailored for web developers: Browser and remote debugging are enabled by default, as are the dark theme and developer toolbar button.
+
+NOTE:
+This package is a binary repackaging from the official package.
